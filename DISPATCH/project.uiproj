@@ -1,0 +1,6 @@
+{
+  "Name": "ACME-NOA-DISPATCH",
+  "ProjectType": "Process",
+  "Description": "DispatchQueueItem.s-Windows",
+  "MainFile": "Main.xaml"
+}
