@@ -1,0 +1,6 @@
+{
+  "Name": "CalculateClientSecurityHash",
+  "ProjectType": "Process",
+  "Description": "CalculateClientSecurityHash",
+  "MainFile": "Main.xaml"
+}
