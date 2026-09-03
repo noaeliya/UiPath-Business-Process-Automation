@@ -1,0 +1,6 @@
+{
+  "Name": "ACME-NOA-EXECUTE",
+  "ProjectType": "Process",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}
